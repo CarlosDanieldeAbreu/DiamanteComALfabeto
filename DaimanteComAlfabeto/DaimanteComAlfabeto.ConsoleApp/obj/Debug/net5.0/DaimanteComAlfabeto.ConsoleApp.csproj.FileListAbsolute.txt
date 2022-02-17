@@ -1,0 +1,16 @@
+C:\Users\Carlos Daniel\source\repos\DiamanteComALfabeto\DaimanteComAlfabeto\DaimanteComAlfabeto.ConsoleApp\bin\Debug\net5.0\DaimanteComAlfabeto.ConsoleApp.exe
+C:\Users\Carlos Daniel\source\repos\DiamanteComALfabeto\DaimanteComAlfabeto\DaimanteComAlfabeto.ConsoleApp\bin\Debug\net5.0\DaimanteComAlfabeto.ConsoleApp.deps.json
+C:\Users\Carlos Daniel\source\repos\DiamanteComALfabeto\DaimanteComAlfabeto\DaimanteComAlfabeto.ConsoleApp\bin\Debug\net5.0\DaimanteComAlfabeto.ConsoleApp.runtimeconfig.json
+C:\Users\Carlos Daniel\source\repos\DiamanteComALfabeto\DaimanteComAlfabeto\DaimanteComAlfabeto.ConsoleApp\bin\Debug\net5.0\DaimanteComAlfabeto.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Carlos Daniel\source\repos\DiamanteComALfabeto\DaimanteComAlfabeto\DaimanteComAlfabeto.ConsoleApp\bin\Debug\net5.0\DaimanteComAlfabeto.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\DiamanteComALfabeto\DaimanteComAlfabeto\DaimanteComAlfabeto.ConsoleApp\bin\Debug\net5.0\ref\DaimanteComAlfabeto.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\DiamanteComALfabeto\DaimanteComAlfabeto\DaimanteComAlfabeto.ConsoleApp\bin\Debug\net5.0\DaimanteComAlfabeto.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\DiamanteComALfabeto\DaimanteComAlfabeto\DaimanteComAlfabeto.ConsoleApp\obj\Debug\net5.0\DaimanteComAlfabeto.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Carlos Daniel\source\repos\DiamanteComALfabeto\DaimanteComAlfabeto\DaimanteComAlfabeto.ConsoleApp\obj\Debug\net5.0\DaimanteComAlfabeto.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Daniel\source\repos\DiamanteComALfabeto\DaimanteComAlfabeto\DaimanteComAlfabeto.ConsoleApp\obj\Debug\net5.0\DaimanteComAlfabeto.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Carlos Daniel\source\repos\DiamanteComALfabeto\DaimanteComAlfabeto\DaimanteComAlfabeto.ConsoleApp\obj\Debug\net5.0\DaimanteComAlfabeto.ConsoleApp.AssemblyInfo.cs
+C:\Users\Carlos Daniel\source\repos\DiamanteComALfabeto\DaimanteComAlfabeto\DaimanteComAlfabeto.ConsoleApp\obj\Debug\net5.0\DaimanteComAlfabeto.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Daniel\source\repos\DiamanteComALfabeto\DaimanteComAlfabeto\DaimanteComAlfabeto.ConsoleApp\obj\Debug\net5.0\DaimanteComAlfabeto.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\DiamanteComALfabeto\DaimanteComAlfabeto\DaimanteComAlfabeto.ConsoleApp\obj\Debug\net5.0\ref\DaimanteComAlfabeto.ConsoleApp.dll
+C:\Users\Carlos Daniel\source\repos\DiamanteComALfabeto\DaimanteComAlfabeto\DaimanteComAlfabeto.ConsoleApp\obj\Debug\net5.0\DaimanteComAlfabeto.ConsoleApp.pdb
+C:\Users\Carlos Daniel\source\repos\DiamanteComALfabeto\DaimanteComAlfabeto\DaimanteComAlfabeto.ConsoleApp\obj\Debug\net5.0\DaimanteComAlfabeto.ConsoleApp.genruntimeconfig.cache
